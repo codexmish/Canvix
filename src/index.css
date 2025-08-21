@@ -1,1 +1,15 @@
 @import "tailwindcss";
+
+@utility container {
+  margin-inline: auto;
+}
+
+@theme{
+  /* --------------Color---------- */
+  --color-primary: #FBFBFB;
+  --color-brand: #64ccc5;
+
+  /* -------------Font Family--------- */
+
+  --font-DM: "DM Sans", sans-serif;
+}
