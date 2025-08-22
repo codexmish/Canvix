@@ -35,7 +35,7 @@ const Navbar = () => {
                         ))
                     }
                 </div>
-                <button className='w-[140px] h-[47px] bg-primary rounded-[23px] text-lg font-DM font-normal'>Get in touch</button>
+                <button className='w-[140px] h-[47px] bg-primary hover:bg-brand rounded-[23px] text-lg font-DM font-normal'>Get in touch</button>
             </div>
         </div>
     </nav>
